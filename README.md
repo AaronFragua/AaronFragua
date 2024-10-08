@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>BIENVENIDO</h1>
-</p>
+<h1 align="center">BIENVENIDO</h1>
 
 <p align="center">
   # Hola, mi nombre es Aarón Fragua 👋
