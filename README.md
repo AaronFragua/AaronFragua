@@ -1,6 +1,7 @@
 ## BIENVENIDO
 
 # Hola, mi nombre es Aarón Fragua 👋
+
 ###Computer engineer & data lover
 </br>
 <p align="left">
