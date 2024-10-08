@@ -9,7 +9,7 @@ Después de estudiar bachillerato de ciencias y graduarme con honores 🎓, deci
 </br>
 Desde entonces he descubierto que me encantan los datos, la parte del diseño backend y lo relacionado con business intelligence.
 </br>
-Además, he descubierto que me encanta trascender a otras ramas del saber, ya que tengo curiosidad por la economía 🪙, el mundo de la empresa 🪙, la moda 👔 o los inmuebles 🏠 entre otros.
+Además, he descubierto que me encanta trascender a otras ramas del saber, ya que tengo curiosidad por la economía 🪙, el mundo de la empresa 🧑🏻‍💼, la moda 👔 o los inmuebles 🏠 entre otros.
 
 A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel nacional 🥇, y creo que eso ha forjado mucho mi forma de ser. Además me encantan los retos, sobre todo mentales, por eso me encanta el ajedrez ♟️.
 
