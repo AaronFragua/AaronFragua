@@ -22,8 +22,6 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 - <span style="color: purple;">C#</span>
 - <span style="color: blue;">Python</span>
 - <span style="color: yellow;">JavaScript</span>
-</br>
-</br>
 
 ## Datos y BI:
 - <span style="color: blue;">R-commander</span>
@@ -31,8 +29,6 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 - <span style="color: yellow;">Power BI</span>
 - <span style="color: orange;">Oracle Database</span>
 - <span style="color: purple;">Estadística descriptiva, analítica e inferencial</span>
-</br>
-</br>
 
 ## Ingeniería de Software:
 - <span style="color: yellow;">Visual Paradigm</span>
@@ -40,8 +36,6 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 - <span style="color: grey;">Diagrama de clases</span>
 - <span style="color: orange;">Diagrama de Gantt</span>
 
-</br>
-</br>
 </br>
 
 
