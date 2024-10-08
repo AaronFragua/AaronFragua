@@ -1,7 +1,8 @@
  ## BIENVENIDO
 
 # Hola, mi nombre es Aarón Fragua 👋
-### Computer engineer & data lover
+###        Computer engineer & data lover
+</br>
 
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ0c2RpdDgxbXVvOHA3OGZqYmt5N2lsczltN3B4aTFuYmplMjB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="440" align="left" style="margin-right: 10px;" />
@@ -13,6 +14,7 @@ Después de estudiar bachillerato de ciencias y graduarme con honores 🎓, deci
 </br>
 Desde entonces he descubierto que me encantan los datos, la parte del diseño backend y lo relacionado con business intelligence.
 </br>
+
 Además, he descubierto que me encanta trascender a otras ramas del saber, ya que tengo curiosidad por la economía 🪙, el mundo de la empresa 🧑🏻‍💼, la moda 👔 o los inmuebles 🏠 entre otros.
 
 A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel nacional 🥇, y creo que eso ha forjado mucho mi forma de ser. Además me encantan los retos, sobre todo mentales, por eso me encanta el ajedrez ♟️.
