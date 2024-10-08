@@ -1,6 +1,6 @@
 ## BIENVENIDO
 
-# Hola, mi nombre es Aaron Fragua 👋
+# Hola, mi nombre es Aarón Fragua 👋
 ### Computer engineer & data lover
 
 Estoy en cuarto curso de Ingeniería Informática en la Universidad de Vigo.
