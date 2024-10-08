@@ -1,4 +1,4 @@
-e## BIENVENIDO
+## BIENVENIDO
 
 # Hola, mi nombre es Aaron Fragua 👋
 ### Computer engineer & data lover
@@ -22,12 +22,16 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 - <span style="color: blue;">Python</span>
 - <span style="color: yellow;">JavaScript</span>
 </br>
+</br>
+
+
 ## Datos y BI:
 - <span style="color: blue;">R-commander</span>
 - <span style="color: green;">SQL</span>
 - <span style="color: yellow;">Power BI</span>
 - <span style="color: orange;">Oracle Database</span>
 - <span style="color: purple;">Estadística descriptiva, analítica e inferencial</span>
+</br>
 </br>
 ## Ingeniería de Software:
 - <span style="color: yellow;">Visual Paradigm</span>
