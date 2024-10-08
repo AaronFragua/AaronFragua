@@ -1,9 +1,11 @@
-## BIENVENIDO
+<p align="center">
+  ## BIENVENIDO
+</p>
 
-# Hola, mi nombre es Aarón Fragua 👋
-</br>
-
-###Computer engineer & data lover
+<p align="center">
+  # Hola, mi nombre es Aarón Fragua 👋
+</p>
+### Computer engineer & data lover
 </br>
 
 <p align="left">
