@@ -13,6 +13,7 @@ Además, he descubierto que me encanta trascender a otras ramas del saber, ya qu
 
 A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel nacional 🥇, y creo que eso ha forjado mucho mi forma de ser. Además me encantan los retos, sobre todo mentales, por eso me encanta el ajedrez ♟️.
 
+
 # Tecnologías y Habilidades que poseo
 ## Lenguajes de programación:
 - <span style="color: orange;">Java</span>
@@ -24,7 +25,6 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 </br>
 </br>
 
-
 ## Datos y BI:
 - <span style="color: blue;">R-commander</span>
 - <span style="color: green;">SQL</span>
@@ -33,14 +33,17 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 - <span style="color: purple;">Estadística descriptiva, analítica e inferencial</span>
 </br>
 </br>
+
 ## Ingeniería de Software:
 - <span style="color: yellow;">Visual Paradigm</span>
 - <span style="color: green;">Modelo Precedencia</span>
 - <span style="color: grey;">Diagrama de clases</span>
 - <span style="color: orange;">Diagrama de Gantt</span>
+
 </br>
 </br>
 </br>
+
 
 No dudes en contactar conmigo para cualquier cosa!! ☺️:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarón_Fragua_Somoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aarón-fragua-somoza-25b0a8304/)
