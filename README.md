@@ -23,7 +23,7 @@
   
   
   
-  # Tecnologías y Habilidades que poseo
+  # Tecnologías y Herramientas
   ## Lenguajes de programación
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
