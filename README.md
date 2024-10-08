@@ -24,7 +24,7 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 
 
 # Tecnologías y Habilidades que poseo
-## Lenguajes de programación:
+## Lenguajes de programación
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,7 +34,7 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Datos y BI:
+## Datos y BI
 ![R Commander](https://img.shields.io/badge/R%20Commander-76A05B?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -42,43 +42,43 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Estadística](https://img.shields.io/badge/Estad%C3%ADstica-0072B9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABxklEQVR42mJ8///B/0MUSgeMys2H4AgJMDEQDjUAAAHRQIfB1j1l5gIAAAAABJRU5ErkJggg==)
 
-## Ingeniería de Software:
+## Ingeniería de Software
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-30A8E4?style=for-the-badge&logo=visual-paradigm&logoColor=white)
 ![Diagrama de Precedencia](https://img.shields.io/badge/Diagrama%20de%20Precedencia-4B8BBE?style=for-the-badge)
 ![Diagrama de Gantt](https://img.shields.io/badge/Diagrama%20de%20Gantt-FFCC00?style=for-the-badge)
 ![Diagrama de Clases](https://img.shields.io/badge/Diagrama%20de%20Clases-3F9E8E?style=for-the-badge)
 ![Lenguaje Z](https://img.shields.io/badge/Lenguaje%20Z-FFD700?style=for-the-badge)
 
-## Estructura:
+## Estructura
 ![Patrones GOF](https://img.shields.io/badge/Patrones%20GOF-4F8BF9?style=for-the-badge)
 ![Patrones GRASP](https://img.shields.io/badge/Patrones%20GRASP-FF8C00?style=for-the-badge)
 ![Patrones SOLID](https://img.shields.io/badge/Patrones%20SOLID-5C8DF8?style=for-the-badge)
 
-</br>
 
-<table>
+## Idiomas
+
+<table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
-      <th>Idioma</th>
-      <th>Nivel</th>
+      <th style="border: 1px solid #dddddd; padding: 8px; text-align: left;">Idioma</th>
+      <th style="border: 1px solid #dddddd; padding: 8px; text-align: left;">Nivel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Español</td>
-      <td>Nativo</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Español</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Nativo</td>
     </tr>
     <tr>
-      <td>Gallego</td>
-      <td>Nativo</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Gallego</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Nativo</td>
     </tr>
     <tr>
-      <td>Inglés</td>
-      <td>C1.1 (cursando C1.2)</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Inglés</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">C1.1 (cursando C1.2)</td>
     </tr>
   </tbody>
 </table>
-
 
 ---
 
