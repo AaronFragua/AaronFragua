@@ -1,32 +1,39 @@
-## Hi there 👋
+## BIENVENIDO
 
 # Hola, mi nombre es Aaron Fragua 👋
 ### Computer engineer & data lover
 
 Estoy en cuarto curso de Ingeniería Informática en la Universidad de Vigo.
 
-Después de estudiar bachillerato de ciencias y graduarme con honores, decidí continuar mi formación cursando la carrera de Ingeniería Informática en la Universidad de Vigo.
+Después de estudiar bachillerato de ciencias y graduarme con honores 🎓, decidí continuar mi formación cursando la carrera de Ingeniería Informática 💻 en la Universidad de Vigo.
+</br>
 Desde entonces he descubierto que me encantan los datos, la parte del diseño backend y lo relacionado con business intelligence.
+</br>
+Además, he descubierto que me encanta trascender a otras ramas del saber, ya que tengo curiosidad por la economía 🪙, el mundo de la empresa 🪙, la moda 👔 o los inmuebles 🏠 entre otros.
 
-A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel nacional, y creo que eso ha forjado mucho mi forma de ser. Además también me encantan los retos, sobre todo mentales, por eso me encanta el ajedrez.
+A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel nacional 🥇, y creo que eso ha forjado mucho mi forma de ser. Además me encantan los retos, sobre todo mentales, por eso me encanta el ajedrez ♟️.
 
-## Tecnologías:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+## Tecnologías y Habilidades
+## Lenguajes de programación:
+- <span style="color: orange;">Java</span>
+- <span style="color: grey;">C</span>
+- <span style="color: green;">C++</span>
+- <span style="color: purple;">C#</span>
+- <span style="color: blue;">Python</span>
+- <span style="color: yellow;">JavaScript</span>
 </br>
-[![R-commander](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Power BI](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![SQL/Oracle Database](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+## Datos y BI:
+- <span style="color: blue;">R-commander</span>
+- <span style="color: green;">SQL</span>
+- <span style="color: yellow;">Power BI</span>
+- <span style="color: orange;">Oracle Database</span>
+- <span style="color: purple;">Estadística descriptiva, analítica e inferencial</span>
 </br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![c#](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![C/C++](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-</br>
-[![Visual Paradigm](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![UML](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+## Ingeniería de Software:
+- <span style="color: yellow;">Visual Paradigm</span>
+- <span style="color: green;">Modelo Precedencia</span>
+- <span style="color: grey;">Diagrama de clases</span>
+- <span style="color: orange;">Diagrama de Gantt</span>
 </br>
 
 No dudes en contactar conmigo para cualquier cosa:
