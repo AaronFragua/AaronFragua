@@ -1,9 +1,8 @@
-<h1 align="center">BIENVENIDO</h1>
+<h2 align="center">BIENVENIDO</h1>
 
-<p align="center">
-  # Hola, mi nombre es Aarón Fragua 👋
-</p>
-### Computer engineer & data lover
+<h1 align="center">Hola, mi nombre es Aarón Fragua 👋</h1>
+
+<h3>Computer engineer & data lover</h3>
 </br>
 
 <p align="left">
