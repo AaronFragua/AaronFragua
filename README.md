@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Aaron Fragua 👋
+# Hola, mi nombre es Aaron Fragua 👋
 ### Computer engineer & data lover
 
 Estoy en cuarto curso de Ingeniería Informática en la Universidad de Vigo.
@@ -10,7 +10,6 @@ Desde entonces he descubierto que me encantan los datos, la parte del diseño ba
 
 A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel nacional, y creo que eso ha forjado mucho mi forma de ser. Además también me encantan los retos, sobre todo mentales, por eso me encanta el ajedrez.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
@@ -31,4 +30,4 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 </br>
 
 No dudes en contactar conmigo para cualquier cosa:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aarón-fragua-somoza-25b0a8304/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarón_Fragua_Somoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aarón-fragua-somoza-25b0a8304/)
