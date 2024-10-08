@@ -1,9 +1,11 @@
 ## BIENVENIDO
 
 # Hola, mi nombre es Aarón Fragua 👋
+</br>
 
 ###Computer engineer & data lover
 </br>
+
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ0c2RpdDgxbXVvOHA3OGZqYmt5N2lsczltN3B4aTFuYmplMjB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="440" align="left" style="margin-right: 10px;" />
  
