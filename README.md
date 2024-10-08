@@ -58,10 +58,10 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 
 ---
 
-### 🌐 Aquí tienes mi LinkedIn, contacta conmigo para cualquier cosa !! ☺️
+### 🌐 Contacta conmigo para cualquier cosa !! ☺️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarón_Fragua_Somoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aarón-fragua-somoza-25b0a8304/)
 
-### 📧 Contacto
+### 📧 Correo
 Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme también a través de mi correo: [aaronfragua2003@gmail.com](mailto:aaronfragua2003@gmail.com)
 
 ---
