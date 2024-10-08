@@ -35,17 +35,24 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Datos y BI:
-- <span style="color: blue;">R-commander</span>
-- <span style="color: green;">SQL</span>
-- <span style="color: yellow;">Power BI</span>
-- <span style="color: orange;">Oracle Database</span>
-- <span style="color: purple;">Estadística descriptiva, analítica e inferencial</span>
+![R Commander](https://img.shields.io/badge/R%20Commander-76A05B?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Estadística](https://img.shields.io/badge/Estad%C3%ADstica-0072B9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABxklEQVR42mJ8///B/0MUSgeMys2H4AgJMDEQDjUAAAHRQIfB1j1l5gIAAAAABJRU5ErkJggg==)
 
 ## Ingeniería de Software:
-- <span style="color: yellow;">Visual Paradigm</span>
-- <span style="color: green;">Modelo Precedencia</span>
-- <span style="color: grey;">Diagrama de clases</span>
-- <span style="color: orange;">Diagrama de Gantt</span>
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-30A8E4?style=for-the-badge&logo=visual-paradigm&logoColor=white)
+![Diagrama de Precedencia](https://img.shields.io/badge/Diagrama%20de%20Precedencia-4B8BBE?style=for-the-badge)
+![Diagrama de Gantt](https://img.shields.io/badge/Diagrama%20de%20Gantt-FFCC00?style=for-the-badge)
+![Diagrama de Clases](https://img.shields.io/badge/Diagrama%20de%20Clases-3F9E8E?style=for-the-badge)
+![Lenguaje Z](https://img.shields.io/badge/Lenguaje%20Z-FFD700?style=for-the-badge)
+
+## Estructura:
+![Patrones GOF](https://img.shields.io/badge/Patrones%20GOF-4F8BF9?style=for-the-badge)
+![Patrones GRASP](https://img.shields.io/badge/Patrones%20GRASP-FF8C00?style=for-the-badge)
+![Patrones SOLID](https://img.shields.io/badge/Patrones%20SOLID-5C8DF8?style=for-the-badge)
 
 </br>
 
