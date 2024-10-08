@@ -1,4 +1,3 @@
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 5px; margin: 20px;">
   <h2 align="center">BIENVENIDO</h1>
   
   <h1 align="center">Hola, mi nombre es Aarón Fragua 👋</h1>
@@ -92,4 +91,3 @@
   ---
   
   © 2024 Aarón Fragua Somoza. Todos los derechos reservados.
-</div>
