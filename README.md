@@ -22,6 +22,8 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 - <span style="color: purple;">C#</span>
 - <span style="color: blue;">Python</span>
 - <span style="color: yellow;">JavaScript</span>
+- <span style="color: blue;">HTML</span>
+- <span style="color: yellow;">CSS</span>
 
 ## Datos y BI:
 - <span style="color: blue;">R-commander</span>
