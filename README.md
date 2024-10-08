@@ -25,7 +25,7 @@ A lo largo de mi vida he practicado muchos deportes, alguno incluso a nivel naci
 
 # Tecnologías y Habilidades que poseo
 ## Lenguajes de programación:
-- <span style="color: orange;">Java</span>
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - <span style="color: grey;">C</span>
 - <span style="color: green;">C++</span>
 - <span style="color: purple;">C#</span>
